@@ -1,0 +1,31 @@
+.icon{
+  width: 80px;
+  height: 80px;
+
+}
+.content-header{
+  background-color: #D2F2F2;
+  width: 100%;
+  height: 100px;
+  border-color: blue;
+  border: solid;
+}
+.content-header-icon{
+  width: 50%;
+  float: right;
+  background-color: #D2F2F2;
+
+}
+.content-header-title{
+  width: 50%;
+  float: left;
+  background-color: #D2F2F2;
+
+}
+h1.title{
+  font-style: italic;
+  color: #1239A2;
+}
+body{
+   text-align: center;
+}
